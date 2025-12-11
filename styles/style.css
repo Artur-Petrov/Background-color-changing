@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-color: #222;
+    color: #fff;
+    padding: 16px;
+    margin-bottom: 24px;
+    border-radius: 10px;
+    font-size: 32px;
+}
+.color{
+    color: #49a6e9;
+}
